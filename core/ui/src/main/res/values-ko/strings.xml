@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">마인크래프트 서바이벌 모드</string>
+    <string name="app_name">MCPE용 신화 속 생물 모드</string>
     <string name="search">검색</string>
 
     <string name="sort_enum_name">이름순</string>

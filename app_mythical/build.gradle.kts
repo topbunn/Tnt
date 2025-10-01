@@ -9,7 +9,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.youlovehamit.survival"
+        applicationId = "com.youlovehamit.mythical"
         minSdk = 24
         targetSdk = 36
         versionCode = 4

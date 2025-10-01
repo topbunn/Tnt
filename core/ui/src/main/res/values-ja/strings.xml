@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Minecraft用サバイバルMOD</string>
+    <string name="app_name">MCPE用の神話生物モッズ</string>
     <string name="search">検索</string>
 
     <string name="sort_enum_name">名前順</string>
