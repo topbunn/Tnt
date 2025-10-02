@@ -24,8 +24,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Boss Mods"
-include(":app_boss")
+rootProject.name = "Tnt Mods"
+include(":app_tnt")
 include(":domain")
 include(":core")
 include(":core:ui")

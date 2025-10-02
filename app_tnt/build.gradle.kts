@@ -9,7 +9,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.youlovehamit.boss"
+        applicationId = "com.youlovehamit.tnt"
         minSdk = 24
         targetSdk = 36
         versionCode = 4
