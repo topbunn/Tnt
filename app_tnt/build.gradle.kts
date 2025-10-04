@@ -12,7 +12,7 @@ android {
         applicationId = "com.youlovehamit.tnt"
         minSdk = 24
         targetSdk = 36
-        versionCode = 4
+        versionCode = 6
         versionName = "2.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
